@@ -1,0 +1,19 @@
+.post {
+  width: 60%;
+  min-width: 250px;
+  min-height: 450px;
+  padding: 30px;
+  background-color: rgb(0, 110, 255);
+  color: white;
+  border-radius: 10px;
+  margin: 30px auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.post a {
+  color: black;
+}
